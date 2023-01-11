@@ -1,5 +1,5 @@
 # Eternity-BOT
 
-**Beautiful Bot for Discord**
+**Beautiful BOT for Discord**
 - Startup Optimized.
 - More Features.
